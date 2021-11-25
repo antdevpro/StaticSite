@@ -1,3 +1,8 @@
+---
+layout: post
+title: Privacy Policy - Vua Tiếng Việt
+---
+
 **Privacy Policy**
 
 ANT DEV PRO built the Vua Tiếng Việt - Ghép Từ app as a Free app. This SERVICE is provided by ANT DEV PRO at no cost and is intended for use as is.
