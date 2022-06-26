@@ -80,3 +80,4 @@ yandex.com, 97539269, RESELLER
 lemmatechnologies.com, 362, RESELLER, 7829010c5bebd1fb
 liftoff.io, 7f6945815e6, RESELLER
 meitu.com, 282, RESELLER
+google.com, pub-6032342945040388, DIRECT, f08c47fec0942fa0
